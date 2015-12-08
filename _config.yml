@@ -1,14 +1,13 @@
 # Site settings
-title: "Joon: Roon for Jekyll"
+title: "我的Git主页"
 logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
-email: your-email@domain.com
+email: qqzhao2010@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Roon was an excellent service, with a beautiful understated design. Roon
-  was eventually acquired by Ghost, who awesomely chose to open source the theme.
-  <br/>This is my Jekyll port of the Roon theme
+  You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted.
+  <br/>Knowledge makes humble, ignorance makes proud.
 url: "http://qqzhao.github.io" # the base hostname & protocol for your site
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-twitter_username: jekyllrb
+twitter_username: qqzhao
 github_username:  qqzhao
 
 # Build settings
